@@ -1,0 +1,8 @@
+C:\_Aprendendo CSharp\1-PrimeiroProjeto\10-CalculaPoupanca\bin\Debug\netcoreapp1.1\P10-CalculaPoupanca.deps.json
+C:\_Aprendendo CSharp\1-PrimeiroProjeto\10-CalculaPoupanca\bin\Debug\netcoreapp1.1\P10-CalculaPoupanca.runtimeconfig.json
+C:\_Aprendendo CSharp\1-PrimeiroProjeto\10-CalculaPoupanca\bin\Debug\netcoreapp1.1\P10-CalculaPoupanca.runtimeconfig.dev.json
+C:\_Aprendendo CSharp\1-PrimeiroProjeto\10-CalculaPoupanca\bin\Debug\netcoreapp1.1\P10-CalculaPoupanca.dll
+C:\_Aprendendo CSharp\1-PrimeiroProjeto\10-CalculaPoupanca\bin\Debug\netcoreapp1.1\P10-CalculaPoupanca.pdb
+C:\_Aprendendo CSharp\1-PrimeiroProjeto\10-CalculaPoupanca\obj\Debug\netcoreapp1.1\P10-CalculaPoupanca.AssemblyInfo.cs
+C:\_Aprendendo CSharp\1-PrimeiroProjeto\10-CalculaPoupanca\obj\Debug\netcoreapp1.1\P10-CalculaPoupanca.dll
+C:\_Aprendendo CSharp\1-PrimeiroProjeto\10-CalculaPoupanca\obj\Debug\netcoreapp1.1\P10-CalculaPoupanca.pdb

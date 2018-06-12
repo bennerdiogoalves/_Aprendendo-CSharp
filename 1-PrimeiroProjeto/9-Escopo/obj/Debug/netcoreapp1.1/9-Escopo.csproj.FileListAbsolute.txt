@@ -1,0 +1,9 @@
+C:\_Aprendendo CSharp\1-PrimeiroProjeto\9-Escopo\bin\Debug\netcoreapp1.1\9-Escopo.deps.json
+C:\_Aprendendo CSharp\1-PrimeiroProjeto\9-Escopo\bin\Debug\netcoreapp1.1\9-Escopo.runtimeconfig.json
+C:\_Aprendendo CSharp\1-PrimeiroProjeto\9-Escopo\bin\Debug\netcoreapp1.1\9-Escopo.runtimeconfig.dev.json
+C:\_Aprendendo CSharp\1-PrimeiroProjeto\9-Escopo\bin\Debug\netcoreapp1.1\9-Escopo.dll
+C:\_Aprendendo CSharp\1-PrimeiroProjeto\9-Escopo\bin\Debug\netcoreapp1.1\9-Escopo.pdb
+C:\_Aprendendo CSharp\1-PrimeiroProjeto\9-Escopo\obj\Debug\netcoreapp1.1\9-Escopo.csprojResolveAssemblyReference.cache
+C:\_Aprendendo CSharp\1-PrimeiroProjeto\9-Escopo\obj\Debug\netcoreapp1.1\9-Escopo.AssemblyInfo.cs
+C:\_Aprendendo CSharp\1-PrimeiroProjeto\9-Escopo\obj\Debug\netcoreapp1.1\9-Escopo.dll
+C:\_Aprendendo CSharp\1-PrimeiroProjeto\9-Escopo\obj\Debug\netcoreapp1.1\9-Escopo.pdb

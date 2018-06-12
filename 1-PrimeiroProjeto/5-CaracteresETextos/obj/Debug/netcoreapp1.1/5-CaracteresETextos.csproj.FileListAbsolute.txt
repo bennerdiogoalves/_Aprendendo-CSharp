@@ -1,0 +1,8 @@
+C:\_Aprendendo CSharp\1-PrimeiroProjeto\5-CaracteresETextos\bin\Debug\netcoreapp1.1\5-CaracteresETextos.deps.json
+C:\_Aprendendo CSharp\1-PrimeiroProjeto\5-CaracteresETextos\bin\Debug\netcoreapp1.1\5-CaracteresETextos.runtimeconfig.json
+C:\_Aprendendo CSharp\1-PrimeiroProjeto\5-CaracteresETextos\bin\Debug\netcoreapp1.1\5-CaracteresETextos.runtimeconfig.dev.json
+C:\_Aprendendo CSharp\1-PrimeiroProjeto\5-CaracteresETextos\bin\Debug\netcoreapp1.1\5-CaracteresETextos.dll
+C:\_Aprendendo CSharp\1-PrimeiroProjeto\5-CaracteresETextos\bin\Debug\netcoreapp1.1\5-CaracteresETextos.pdb
+C:\_Aprendendo CSharp\1-PrimeiroProjeto\5-CaracteresETextos\obj\Debug\netcoreapp1.1\5-CaracteresETextos.AssemblyInfo.cs
+C:\_Aprendendo CSharp\1-PrimeiroProjeto\5-CaracteresETextos\obj\Debug\netcoreapp1.1\5-CaracteresETextos.dll
+C:\_Aprendendo CSharp\1-PrimeiroProjeto\5-CaracteresETextos\obj\Debug\netcoreapp1.1\5-CaracteresETextos.pdb
