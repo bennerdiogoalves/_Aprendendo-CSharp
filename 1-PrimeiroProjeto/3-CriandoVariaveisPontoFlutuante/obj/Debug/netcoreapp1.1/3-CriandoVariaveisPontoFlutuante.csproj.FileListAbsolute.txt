@@ -1,8 +1,0 @@
-C:\_Aprendendo CSharp\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp1.1\3-CriandoVariaveisPontoFlutuante.deps.json
-C:\_Aprendendo CSharp\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp1.1\3-CriandoVariaveisPontoFlutuante.runtimeconfig.json
-C:\_Aprendendo CSharp\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp1.1\3-CriandoVariaveisPontoFlutuante.runtimeconfig.dev.json
-C:\_Aprendendo CSharp\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp1.1\3-CriandoVariaveisPontoFlutuante.dll
-C:\_Aprendendo CSharp\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp1.1\3-CriandoVariaveisPontoFlutuante.pdb
-C:\_Aprendendo CSharp\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp1.1\3-CriandoVariaveisPontoFlutuante.AssemblyInfo.cs
-C:\_Aprendendo CSharp\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp1.1\3-CriandoVariaveisPontoFlutuante.dll
-C:\_Aprendendo CSharp\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp1.1\3-CriandoVariaveisPontoFlutuante.pdb

@@ -1,8 +1,0 @@
-C:\_Aprendendo CSharp\1-PrimeiroProjeto\2-CriandoVariaveis\bin\Debug\netcoreapp1.1\2-CriandoVariaveis.deps.json
-C:\_Aprendendo CSharp\1-PrimeiroProjeto\2-CriandoVariaveis\bin\Debug\netcoreapp1.1\2-CriandoVariaveis.runtimeconfig.json
-C:\_Aprendendo CSharp\1-PrimeiroProjeto\2-CriandoVariaveis\bin\Debug\netcoreapp1.1\2-CriandoVariaveis.runtimeconfig.dev.json
-C:\_Aprendendo CSharp\1-PrimeiroProjeto\2-CriandoVariaveis\bin\Debug\netcoreapp1.1\2-CriandoVariaveis.dll
-C:\_Aprendendo CSharp\1-PrimeiroProjeto\2-CriandoVariaveis\bin\Debug\netcoreapp1.1\2-CriandoVariaveis.pdb
-C:\_Aprendendo CSharp\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\netcoreapp1.1\2-CriandoVariaveis.AssemblyInfo.cs
-C:\_Aprendendo CSharp\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\netcoreapp1.1\2-CriandoVariaveis.dll
-C:\_Aprendendo CSharp\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\netcoreapp1.1\2-CriandoVariaveis.pdb
